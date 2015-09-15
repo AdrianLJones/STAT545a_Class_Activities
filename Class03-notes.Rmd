@@ -1,0 +1,20 @@
+---
+title: "STAT 545a Class 03"
+author: "Adrian jones"
+date: "September 15, 2015"
+output: html_document
+---
+
+~~~~~Questions to be resolved
+
+-How to upload a project to Git Hub?  Ie if I build the repo on my own computer instead of cloning from GitHub first.
+-Should I be getting that other git wrapper thing?
+-Can projects be put inside of projects like a folder structure?  Eg building a function to do something as subsection?  Or each class being its own project?
+
+~~~~~Notes and Stuff I did
+"watched"" the Discussion Repository on GitHub
+
+workflow seems to be 
+do stuff, test its reproducibility, save it, push it somewhere.
+
+within Markdown, can put R code into "chunks" that can be surrounded by text that can be more conversational and are formatted happily for reading.
